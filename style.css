@@ -1,0 +1,26 @@
+
+
+  #total-count{
+    font-weight: 900;
+    font-size: 70px;
+  }
+  .container{
+    float:left;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: ; */
+    align-items: center;
+    height: 100vh;
+    font-size: large;
+    color: aqua;
+    padding: 125px;
+  }
+
+ .linkedin{
+  align-items: center;
+  float: inline-start;
+  font-size: large;
+  color: blue;
+  
+
+ }
